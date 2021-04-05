@@ -7,8 +7,8 @@ const App: React.FC = () => (
             <h1 className="title">
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra faucibus nulla, id sodales magna tincidunt et. Integer vel magna."
             </h1>
-            <h2 className="subtitle">
-                Author
+            <h2 className="subtitle ">
+                Someone Cool
             </h2>
         </div>
       </div>
